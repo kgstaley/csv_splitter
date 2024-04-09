@@ -1,3 +1,4 @@
 /target
+./piece_*
 /pieces
 .DS_Store

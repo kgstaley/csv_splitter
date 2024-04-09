@@ -12,3 +12,4 @@ be default, I kept it simple and it will just write the split .csv files to the 
 
 ## TODO
 - [ ] allow optional arg for passing which directory to write files to
+- [ ] add tests
